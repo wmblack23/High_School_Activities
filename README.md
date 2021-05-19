@@ -12,7 +12,9 @@ This clubs and activities information was completely student inputted, so the da
 
 The final result of this program ('Total Clubs 2018-2021') provides us a simple and user-friendly way to understand this data.  It has allowed us to make decisions on programming and scholarship creation using real-data that we otherwise may not have been able to.
 
-Using this code, **I am also able to run queries for my colleagues on our current admitted students.  For example: if a colleague wants a list of all of the students from California, Washington or Oregon who are involved in either Student Government or Model United Nations, I can quickly get them an Excel file with that information.**  This provides a really easy way for us to send very targeted and tailored messages to students.  More efficient communication is better for all parties involved in the college search process.
+Using this code, I am also able to run queries for my colleagues on our current admitted students.  **For example: if a colleague wants a list of all of the students from California, Washington or Oregon who are involved in either Student Government or Student Council, I can quickly get them an Excel file with that information.**  This provides a really easy way for us to send very targeted and tailored messages to students.  More efficient communication is better for all parties involved in the college search process.
+
+I added 'Query Example.ipynb' to show this process.  I hid the DataFrame as to not show the names and information of our students.
 
 Thank you for reading.
 
