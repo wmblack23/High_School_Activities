@@ -12,7 +12,7 @@ This clubs and activities information was completely student inputted, so the da
 
 The final result of this program ('Total Clubs 2018-2021') provides us a simple and user-friendly way to understand this data.  It has allowed us to make decisions on programming and scholarship creation using real-data that we otherwise may not have been able to.
 
-Using this code, I am also able to run queries for my colleagues on our current admitted students.  For example: if a colleague wants a list of all of the students from their recruitment territory who are involved in either Key Club or Model United Nations, I can quickly get them an Excel file with that information and all of each students' contact information.  They can then use our CRM to send mass mailings tailored specifically to these students.
+Using this code, **I am also able to run queries for my colleagues on our current admitted students.  For example: if a colleague wants a list of all of the students from their recruitment territory who are involved in either Key Club or Model United Nations, I can quickly get them an Excel file with that information and all of each students' contact information.**  This provides a really easy way for us to send very targeted and tailored messages to students from specific areas of the world/country and involved in the same things.
 
 Thank you for reading.
 
