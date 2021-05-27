@@ -8,7 +8,7 @@ We were given "historical applicant data" from the years 2018-21 of students who
 
 This clubs and activities information was completely student inputted, so the data was very sloppy and inconsistent.  Since it wasn't a pre-determined field in our application (with boxes to check, etc.) it was hard for our team to find ways to organize the data and really study it.  *I have attached one of these Excel sheets ('Applicants with Interests 2019') with all of the personal information removed, so that it can be better visualized what kind of data we were working with.*
 
-*What this program did was find a way to effectively sort through this unorganized data and allow us to better understand what clubs and activities Earlham College applicants take part in during their high school careers.*
+**What this program did was find a way to effectively sort through this unorganized data and allow us to better understand what clubs and activities Earlham College applicants take part in during their high school careers.**
 
 The final result of this program ('Total Clubs 2018-2021') provides us a simple and user-friendly way to understand this data.  It has allowed us to make decisions on programming and scholarship creation using real-data that we otherwise may not have been able to.
 
